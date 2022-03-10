@@ -1,16 +1,28 @@
 body{
-background-color: #FFFBE9;
+background-color: #F4F9F9;
 }
 
 h1{
-color: navy;
+color: #344CB7;
+}
+h2{
+color: #344CB7;
+}
+h3{
+color: #344CB7;
+}
+h4{
+color: #344CB7;
+}
+h5{
+color: #344CB7;
 }
 hr{
-/* background-color:white; */
-border-style: none;
-border-top-style: dotted;
-border-color: #AD8B73;
-border-width: 5px;
-width: 100%
 
+/* background-color:white; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #1C658C;
+  border-width: 3px;
+  width: 100%
 }
